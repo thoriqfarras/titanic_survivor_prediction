@@ -1,7 +1,7 @@
 # titanic_survivor_prediction
 A competition from Kaggle's 'Getting Started' category.
 
-You can check all of my submitted submissions by checking the `submissions`.
+You can check all of my submitted submissions by checking the `submissions` folder.
 
 ## Score
 
